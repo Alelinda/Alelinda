@@ -1,4 +1,10 @@
-### Hi there 👋
+### Bem Vindo a minha página! 👋
+
+<h2> Aluna Ale </h2>
+
+Aula de Git Hub 12/06/2023
+
+<b>Sesc Londrina Centro</b>
 
 <!--
 **Alelinda/Alelinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
