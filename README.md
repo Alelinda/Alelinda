@@ -12,7 +12,7 @@ _Ale para os mais próximos_
 Turma 2ºSESC-Informática
 
 <hr>
-_ Jesus te ama! _
+_Jesus te ama!_
 
 <!--
 **Alelinda/Alelinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
