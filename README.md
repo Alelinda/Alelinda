@@ -14,6 +14,8 @@ Turma 2ºSESC-Informática
 <hr>
 _Jesus te ama!_
 
+💓💓💓💓💓
+
 <!--
 **Alelinda/Alelinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
