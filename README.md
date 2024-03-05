@@ -9,7 +9,7 @@ _Ale para os mais próximos_
 <hr>
 <hr>
 
-Turma 2ºSESC-Informática
+Turma 3ºSESC-Informática
 
 <hr>
 _Jesus te ama!_
